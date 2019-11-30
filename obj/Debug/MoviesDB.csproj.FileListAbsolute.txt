@@ -1,0 +1,12 @@
+C:\Users\skeid\source\repos\MoviesDB\bin\Debug\MoviesDB.exe.config
+C:\Users\skeid\source\repos\MoviesDB\bin\Debug\MoviesDB.exe
+C:\Users\skeid\source\repos\MoviesDB\bin\Debug\MoviesDB.pdb
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.csprojAssemblyReference.cache
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.Properties.Resources.resources
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.csproj.GenerateResource.cache
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.exe
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.pdb
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.Form1.resources
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.Form2.resources
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.Form3.resources
+C:\Users\skeid\source\repos\MoviesDB\obj\Debug\MoviesDB.Form4.resources
